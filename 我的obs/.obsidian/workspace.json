@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "071ad7500d143cf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "欢迎.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "欢迎"
-            }
-          },
-          {
-            "id": "5ec2b0cea07cc8ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名"
-            }
-          },
-          {
             "id": "b447818e560fc53f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "创建链接.md",
+                "file": "我的工作/01-项目/项目概述.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "创建链接"
+              "title": "项目概述"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#项目文档",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,17 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "创建链接.md",
+                "file": "我的工作/01-项目/项目概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "创建链接 的反向链接列表"
+              "title": "项目概述 的反向链接列表"
             }
           },
           {
@@ -198,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,11 +184,25 @@
   },
   "active": "b447818e560fc53f",
   "lastOpenFiles": [
+    "我的工作/01-项目/超市业务.md",
+    "我的工作/01-项目/项目概述.md",
     "创建链接.md",
-    "欢迎.md",
+    "我的工作/01-项目/工具列表.md",
+    "我的工作/04-归档",
+    "我的工作/04-归档.base",
+    "我的工作/03-资源",
+    "我的工作/02-领域",
+    "我的工作/01-项目",
+    "未命名",
+    "Obsidian入门指南.md",
+    "2026-03-17.md",
+    "未命名 1.base",
+    "未命名 1.canvas",
+    "未命名.base",
+    "未命名.canvas",
     "未命名.md",
+    "欢迎.md",
     "未命名 1.md",
-    "我的工作/超市业务.md",
     "我的工作"
   ]
 }
